@@ -1,0 +1,4 @@
+ddgs
+beautifulsoup4
+transformers
+torch
